@@ -1,4 +1,3 @@
-# test3
 <html>
 <head>
 <style>
@@ -44,7 +43,7 @@ margin-left: 100px
 <h2>다음 그림을 보고 올바른 답을 구하시오.</h2>
 
 <p>5번</p>
-<img src="https://semosu.com/data/assets/question/5790.gif" alt=""width="1000" height="333">
+  <img src="https://semosu.com/data/assets/question/5790.gif" alt="not found" width="1000px" height="333px">
 <br>
 <button onclick=one()> 1 </button>
 &nbsp
