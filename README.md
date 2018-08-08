@@ -45,41 +45,21 @@ margin-left: 100px
 <p>5번</p>
   <img src="https://semosu.com/data/assets/question/5790.gif" alt="not found" width="1000px" height="333px">
 <br>
-<button onclick=one()> 1 </button>
+<input type="button" value="1" onclick="alert('가')">
 &nbsp
-<button onclick=two()> 2 </button>
+<input type="button" value="2" onclick="alert('가')">
 &nbsp
-<button onclick=three()> 3 </button>
+<input type="button" value="3" onclick="alert('가')">
 &nbsp
-<button onclick=four()> 4 </button>
+<input type="button" value="4" onclick="alert('가')">
 &nbsp
-<button onclick=five()> 5 </button>
+<input type="button" value="5" onclick="alert('나')">
 <br>
 <br>
 <a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="next"> <button> 다음문제로! </button></a>
 <a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="first"> <button> 처음으로! </button></a>
 <a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="final"> <button> 최종정답으로! </button></a>
 
-<script>
-function one() {
-    alert("가");
-}
-function two() {
-  alert("가");
-}
-function three() {
-  alert("가");
-}
-function four() {
-  alert("가");
-}
-function five() {
-  alert("나");
-}
-function next() {
-
-}
-</script>
 
 
 </body>
