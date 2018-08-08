@@ -3,7 +3,6 @@
 <head>
 <style>
 body {
-
     text-align: center;
 }
 button {
@@ -18,8 +17,6 @@ button {
     margin: 4px 2px;
 }
 h1{
-  margin-left: 500px;
-  margin-right: 500px;
   border: 2px solid blue;
   border-radius: 8px;
 }
