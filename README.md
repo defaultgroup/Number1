@@ -46,13 +46,9 @@ margin-left: 100px
   <img src="https://semosu.com/data/assets/question/5790.gif" alt="not found" width="1000px" height="333px">
 <br>
 <input type="button" value="1" onclick="alert('가')">
-&nbsp
 <input type="button" value="2" onclick="alert('가')">
-&nbsp
 <input type="button" value="3" onclick="alert('가')">
-&nbsp
 <input type="button" value="4" onclick="alert('가')">
-&nbsp
 <input type="button" value="5" onclick="alert('나')">
 <br>
 <br>
