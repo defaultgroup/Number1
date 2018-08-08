@@ -1,5 +1,4 @@
 # test3
-<!DOCTYPE html>
 <html>
 <head>
 <style>
