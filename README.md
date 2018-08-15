@@ -42,8 +42,7 @@ margin-left: 100px
 <body>
 <h2>다음 그림을 보고 올바른 답을 구하시오.</h2>
 
-<p>5번</p>
-  <img src="https://semosu.com/data/assets/question/5790.gif" alt="not found" width="1000px" height="333px">
+<img src="https://semosu.com/data/assets/question/5790.gif" alt="not found" width="1000px" height="333px">
 <br>
 <input type="button" value="1" onclick="alert('K')">
 <input type="button" value="2" onclick="alert('L')">
