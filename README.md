@@ -51,7 +51,7 @@ margin-left: 100px
 <input type="button" value="5" onclick="alert('D')">
 <br>
 <br>
-<a href="https://github.com/defaultgroup/Number2" id="next"> <button> 다음문제로! </button></a>
+<a href="https://defaultgroup.github.io/Number2/" id="next"> <button> 다음문제로! </button></a>
 <a href="https://defaultgroup.github.io/START/" id="first"> <button> 처음으로! </button></a>
 <a href="https://defaultgroup.github.io/END/" id="final"> <button> 최종정답으로! </button></a>
 
