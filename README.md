@@ -45,16 +45,16 @@ margin-left: 100px
 <p>5번</p>
   <img src="https://semosu.com/data/assets/question/5790.gif" alt="not found" width="1000px" height="333px">
 <br>
-<input type="button" value="1" onclick="alert('가')">
-<input type="button" value="2" onclick="alert('가')">
-<input type="button" value="3" onclick="alert('가')">
-<input type="button" value="4" onclick="alert('가')">
-<input type="button" value="5" onclick="alert('나')">
+<input type="button" value="1" onclick="alert('K')">
+<input type="button" value="2" onclick="alert('L')">
+<input type="button" value="3" onclick="alert('P')">
+<input type="button" value="4" onclick="alert('Q')">
+<input type="button" value="5" onclick="alert('D')">
 <br>
 <br>
 <a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="next"> <button> 다음문제로! </button></a>
-<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="first"> <button> 처음으로! </button></a>
-<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="final"> <button> 최종정답으로! </button></a>
+<a href="https://defaultgroup.github.io/START/" id="first"> <button> 처음으로! </button></a>
+<a href="https://defaultgroup.github.io/END/" id="final"> <button> 최종정답으로! </button></a>
 
 
 
